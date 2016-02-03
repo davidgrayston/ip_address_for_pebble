@@ -1,0 +1,24 @@
+{
+    "appKeys": {
+        "apidata": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "David Grayston",
+    "longName": "IP Address",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "My IP",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "3d7bbaf0-04e3-458d-9e7e-8b31a5d29077",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
