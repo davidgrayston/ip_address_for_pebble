@@ -11,7 +11,7 @@ function getFeed() {
   // Construct URL
   var url = "http://jsonip.com/";
 
-  // Send request to OpenWeatherMap
+  // Send request to IP Address
   xhrRequest(url, 'GET',
     function(responseText) {
       var json = JSON.parse(responseText);
